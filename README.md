@@ -11,6 +11,7 @@ I'm a **Software Engineering student from Brazil**.
 ![Snake animation](https://github.com/maria-clra/snake-profile/blob/main/dist/github-contribution-grid-snake.svg)
 
 
+
 > Watch my GitHub contributions grow like a snake! 😎
 
 ---
