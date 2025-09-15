@@ -8,8 +8,11 @@ I'm a **Software Engineering student from Brazil**.
 ---
 
 ## 🐍 GitHub Snake Game
-![Snake animation](https://github.com/maria-clra/snake-profile/blob/main/dist/github-contribution-grid-snake.svg)
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-clra/maria-clra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-clra/maria-clra/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maria-clra/maria-clra/output/github-contribution-grid-snake.svg">
+</picture>
 > Watch my GitHub contributions grow like a snake! 😎
 
 ---
