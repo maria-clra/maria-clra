@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 Hi, I'm Maria Clara! 👋
 
-<!--
-**maria-clra/maria-clra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student from Brazil**.  
+💡 Currently diving into **Front-End & Back-End development**.  
+🚀 Looking for my **first professional experience in tech**.  
+📚 Improving my **programming logic** and **web development skills**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 GitHub Snake Game
+![Snake animation](https://github.com/maria-clra/snk/blob/output/github-contribution-grid-snake.svg)
+
+> Watch my GitHub contributions grow like a snake! 😎
+
+---
+
+## 📬 Contact Me
+📧 mclaranb@icloud.com
