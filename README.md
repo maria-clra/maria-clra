@@ -8,7 +8,8 @@ I'm a **Software Engineering student from Brazil**.
 ---
 
 ## 🐍 GitHub Snake Game
-![Snake animation](https://github.com/maria-clra/snk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maria-clra/snake-profile/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 > Watch my GitHub contributions grow like a snake! 😎
 
