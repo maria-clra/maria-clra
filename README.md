@@ -1,7 +1,6 @@
 # 💫 Hi, I'm Maria Clara! 👋  
 
-🎓 Software Engineering student from Brazil 🇧🇷
-💻 Background in Occupational Safety with strong analytical thinking  
+🎓 Software Engineering student from Brazil
 🚀 Seeking a Software Developer Internship opportunity  
 
 I’m focused on building solid programming foundations, writing clean and organized code, and continuously improving through real projects and collaboration.
