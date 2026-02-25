@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Maria Clara! 👋  
 
-🎓 Software Engineering student from Brazil  
+🎓 Software Engineering student from Brazil 🇧🇷
 💻 Background in Occupational Safety with strong analytical thinking  
-🚀 Actively seeking a Software Developer Internship opportunity  
+🚀 Seeking a Software Developer Internship opportunity  
 
 I’m focused on building solid programming foundations, writing clean and organized code, and continuously improving through real projects and collaboration.
 
@@ -19,11 +19,26 @@ Learning through hands-on projects and collaboration
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maria-clra/maria-clra/output/github-contribution-grid-snake.svg">
 </picture>
 
- 😎
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-clra&show_icons=true&theme=default&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-clra&layout=compact&theme=default&cache_seconds=1800)
+<p align="left">
+  <a href="https://github.com/maria-clra">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-clra&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+  <a href="https://github.com/maria-clra">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-clra&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_  
+
+---
 
 ## 📬 Contact Me
 📧 mclaranb@icloud.com
