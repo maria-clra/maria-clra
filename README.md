@@ -1,11 +1,17 @@
-# 💫 Hi, I'm Maria Clara! 👋
+# 💫 Hi, I'm Maria Clara! 👋  
 
-I'm a **Software Engineering student from Brazil**.  
-💡 Currently diving into **Front-End & Back-End development**.  
-🚀 Looking for my **first professional experience in tech**.  
-📚 Improving my **programming logic** and **web development skills**.
+🎓 Software Engineering student from Brazil  
+💻 Background in Occupational Safety with strong analytical thinking  
+🚀 Actively seeking a Software Developer Internship opportunity  
+
+I’m focused on building solid programming foundations, writing clean and organized code, and continuously improving through real projects and collaboration.
 
 ---
+
+## 📚 Currently Learning
+Improving problem-solving skills  
+Building small projects to strengthen my foundations  
+Learning through hands-on projects and collaboration
 
 ## 🐍 GitHub Snake Game
 <picture align="center">
@@ -16,6 +22,9 @@ I'm a **Software Engineering student from Brazil**.
 
  😎
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-clra&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-clra&layout=compact)
 ---
 
 ## 📬 Contact Me
