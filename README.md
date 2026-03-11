@@ -21,10 +21,7 @@ Learning through hands-on projects and collaboration
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/maria-clra">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-clra&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
+
   <a href="https://github.com/maria-clra">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-clra&layout=compact&theme=tokyonight" />
   </a>
